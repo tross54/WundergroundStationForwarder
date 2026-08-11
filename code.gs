@@ -45,8 +45,8 @@ const ttnAPIKey = 'NNSXS.XXXXXXXXXX.XXXXXXXXXXXXXXXX';
 // Sending data
 
 const updateWunderground = false;
-const wundergroundStationID = 'KXXXXXXXXXX';
-const wundergroundStationKey = 'xxxxxxxx';
+const wundergroundStationID = 'KNCFAIRV50';
+const wundergroundStationKey = 'XuHjzzSq';
 ///
 const updateWindy = false;
 const windyStationPassword = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
@@ -66,8 +66,8 @@ const openWeatherMapAPIKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const openWeatherMapStationID = 'xxxxxxxxxxxxxxxx';
 ///
 const updateWindGuru = false;
-const windGuruStationUID = 'xxxxxxxxxx';
-const windGuruStationPassword = 'xxxxxxxxxxxxxxxx';
+const windGuruStationUID = '16478';
+const windGuruStationPassword = 'Weather1954!';
 ///
 const updateWOWBE = false;
 const wowBESiteID = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
